@@ -1,1 +1,1 @@
-FROM syd.ocir.io/sd63xuke79z3/binderhub/jupyter-neurodesktop-proxy:20220224120358
+FROM syd.ocir.io/sd63xuke79z3/binderhub/jupyter-neurodesktop-proxy:20220224121746
